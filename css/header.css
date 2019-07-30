@@ -1,0 +1,10 @@
+.title {
+	font-family: 'Darker Grotesque', sans-serif;
+	font-size: 82px;
+	font-weight: 300;
+	letter-spacing: 0.6rem;
+}
+
+.mt-3 {
+	margin-top: $spacer !important;
+}

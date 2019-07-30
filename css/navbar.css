@@ -1,0 +1,16 @@
+.cus-nav {
+	font-family: 'Darker Grotesque', sans-serif;	
+	font-weight: 300;	
+	font-size: 18px;
+}
+
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+
+
+
