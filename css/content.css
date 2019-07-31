@@ -1,6 +1,7 @@
 .about-statement {
 	font-family: 'Source Sans Pro', sans-serif;	
-	width: 1000px !important;
+	margin: auto;
+ 	width: 60%;	
 	line-height: 1.7;
 }
 
@@ -9,5 +10,5 @@ hr {
 	margin-bottom: 1rem;
 	border: 0;
 	border-top: 1px solid rgba(0,0,0, 0.3);
-	width: 1200px;
+	width: 60%;	
 }
